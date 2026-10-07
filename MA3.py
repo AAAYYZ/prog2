@@ -131,7 +131,7 @@ def main():
     n = 1000000
     d = 11
 
-    print("\n--- Exc3: Conventional Python (sphere_volume) ---")
+    print("\n-- Exc3: Conventional Python (sphere_volume) --")
     for i in range(1, 4):
          start = pc()
          sphere_volume(n, d)
